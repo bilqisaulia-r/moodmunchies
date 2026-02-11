@@ -1,4 +1,17 @@
 body
 {
  background-color:pink;
+ color:#333;
+ width: 100%;
+ font-family: cursive;
+ margin:0 auto;
+}
+
+.header{
+     width:90%;
+     margin:auto;
+     height:120px;
+     line-height:120px;
+     background:#B9375E;
+     color: #fff;
 }
