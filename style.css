@@ -15,9 +15,12 @@ body
      background:#B9375E;
      color: #fff;
 }
+
 .jarak{
     padding:0 2pc;
-}
+}  
+
+
 .menu{
     background-color:#F46FA1;
     height:50px;
@@ -27,6 +30,7 @@ body
     margin:0 auto;
     padding:0 auto;
 }
+
 
 
 
