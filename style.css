@@ -59,8 +59,9 @@ body
 }
 
 .border{
- background: transparent !important;
- border:2px solid #fff5d6;
+ background: white;
+ border:2px solid #e0e0e0;
+ box-shadow:0 2px 5px rgba(0,0,0,0.1);
  margin-top:1pc;
  padding-bottom:1pc;
  padding-left:2pc;
